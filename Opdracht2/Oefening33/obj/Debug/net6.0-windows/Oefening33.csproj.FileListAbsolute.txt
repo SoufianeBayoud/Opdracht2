@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.Form1.resources
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\bin\Debug\net6.0-windows\Oefening33.exe
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\bin\Debug\net6.0-windows\Oefening33.deps.json
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\bin\Debug\net6.0-windows\Oefening33.runtimeconfig.json
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\bin\Debug\net6.0-windows\Oefening33.dll
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\bin\Debug\net6.0-windows\Oefening33.pdb
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.dll
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\refint\Oefening33.dll
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.pdb
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\Oefening33.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Opdracht2\Oefening33\obj\Debug\net6.0-windows\ref\Oefening33.dll

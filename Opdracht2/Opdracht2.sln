@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening1", "..\Oefening1\Oefening1.csproj", "{FC82AF4C-92A7-41A5-9682-4CA5F626D8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening33", "Oefening33\Oefening33.csproj", "{537F7D5B-F1FC-4824-B553-7361E0E97939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening2", "Oefening2\Oefening2.csproj", "{DA53CB34-F817-419D-AD75-B38C62C782C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC82AF4C-92A7-41A5-9682-4CA5F626D8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC82AF4C-92A7-41A5-9682-4CA5F626D8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC82AF4C-92A7-41A5-9682-4CA5F626D8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC82AF4C-92A7-41A5-9682-4CA5F626D8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537F7D5B-F1FC-4824-B553-7361E0E97939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537F7D5B-F1FC-4824-B553-7361E0E97939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537F7D5B-F1FC-4824-B553-7361E0E97939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537F7D5B-F1FC-4824-B553-7361E0E97939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA53CB34-F817-419D-AD75-B38C62C782C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA53CB34-F817-419D-AD75-B38C62C782C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA53CB34-F817-419D-AD75-B38C62C782C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA53CB34-F817-419D-AD75-B38C62C782C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A352DBFF-ECDA-4FB1-AE59-94724EAC1553}
+	EndGlobalSection
+EndGlobal
